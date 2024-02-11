@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&family=Protest+Strike&display=swap');
+
+
+.center {
+    text-align: left;
+    color: white;
+    font-style: italic;
+  }
+  
+.center2 {
+    text-align: left;
+    color: rgb(236, 248, 4);
+    font-style: oblique;
+  }
+
+
+body {
+    background-color: rgb(244, 172, 216);
+}
+
+.heading {
+    text-align: center;
+}
+
+.kirjukoer-heading {
+    color: white;
+    font-family: 'Oswald', sans-serif;
+}
+
+.table main {
+    color: antiquewhite;
+    text-align: center;
+}
+
+.footer {
+    color: white;
+    font-family: 'Protest Strike', sans-serif;
+    font-size: 1rem;
+    text-align: center;
+}
